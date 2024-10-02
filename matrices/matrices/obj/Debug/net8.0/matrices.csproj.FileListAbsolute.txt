@@ -1,0 +1,14 @@
+C:\Users\Nikita\source\repos\matrices\matrices\bin\Debug\net8.0\matrices.exe
+C:\Users\Nikita\source\repos\matrices\matrices\bin\Debug\net8.0\matrices.deps.json
+C:\Users\Nikita\source\repos\matrices\matrices\bin\Debug\net8.0\matrices.runtimeconfig.json
+C:\Users\Nikita\source\repos\matrices\matrices\bin\Debug\net8.0\matrices.dll
+C:\Users\Nikita\source\repos\matrices\matrices\bin\Debug\net8.0\matrices.pdb
+C:\Users\Nikita\source\repos\matrices\matrices\obj\Debug\net8.0\matrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\source\repos\matrices\matrices\obj\Debug\net8.0\matrices.AssemblyInfoInputs.cache
+C:\Users\Nikita\source\repos\matrices\matrices\obj\Debug\net8.0\matrices.AssemblyInfo.cs
+C:\Users\Nikita\source\repos\matrices\matrices\obj\Debug\net8.0\matrices.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\source\repos\matrices\matrices\obj\Debug\net8.0\matrices.dll
+C:\Users\Nikita\source\repos\matrices\matrices\obj\Debug\net8.0\refint\matrices.dll
+C:\Users\Nikita\source\repos\matrices\matrices\obj\Debug\net8.0\matrices.pdb
+C:\Users\Nikita\source\repos\matrices\matrices\obj\Debug\net8.0\matrices.genruntimeconfig.cache
+C:\Users\Nikita\source\repos\matrices\matrices\obj\Debug\net8.0\ref\matrices.dll

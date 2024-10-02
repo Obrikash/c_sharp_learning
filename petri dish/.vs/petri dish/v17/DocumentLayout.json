@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nikita\\source\\repos\\petri dish\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91C0C566-6C03-40BF-9980-7C3401C3F641}|petri dish\\petri dish.csproj|c:\\users\\nikita\\source\\repos\\petri dish\\petri dish\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91C0C566-6C03-40BF-9980-7C3401C3F641}|petri dish\\petri dish.csproj|solutionrelative:petri dish\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\petri dish\\petri dish\\Program.cs",
+              "RelativeDocumentMoniker": "petri dish\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\petri dish\\petri dish\\Program.cs",
+              "RelativeToolTip": "petri dish\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T10:49:23.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

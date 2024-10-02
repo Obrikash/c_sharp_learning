@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Lo-fi game/1.0.0": {
+        "runtime": {
+          "Lo-fi game.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lo-fi game/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

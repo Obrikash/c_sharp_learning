@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "modules on Mars", "modules on Mars\modules on Mars.csproj", "{8242363A-C3A4-4910-84EF-AA20D7FB34EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8242363A-C3A4-4910-84EF-AA20D7FB34EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8242363A-C3A4-4910-84EF-AA20D7FB34EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8242363A-C3A4-4910-84EF-AA20D7FB34EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8242363A-C3A4-4910-84EF-AA20D7FB34EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {502613C1-5190-4772-A127-533EB0E61622}
+	EndGlobalSection
+EndGlobal

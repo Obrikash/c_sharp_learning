@@ -1,0 +1,14 @@
+C:\Users\Nikita\source\repos\reduction of fractions\reduction of fractions\bin\Debug\net8.0\reduction of fractions.exe
+C:\Users\Nikita\source\repos\reduction of fractions\reduction of fractions\bin\Debug\net8.0\reduction of fractions.deps.json
+C:\Users\Nikita\source\repos\reduction of fractions\reduction of fractions\bin\Debug\net8.0\reduction of fractions.runtimeconfig.json
+C:\Users\Nikita\source\repos\reduction of fractions\reduction of fractions\bin\Debug\net8.0\reduction of fractions.dll
+C:\Users\Nikita\source\repos\reduction of fractions\reduction of fractions\bin\Debug\net8.0\reduction of fractions.pdb
+C:\Users\Nikita\source\repos\reduction of fractions\reduction of fractions\obj\Debug\net8.0\reduction of fractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\source\repos\reduction of fractions\reduction of fractions\obj\Debug\net8.0\reduction of fractions.AssemblyInfoInputs.cache
+C:\Users\Nikita\source\repos\reduction of fractions\reduction of fractions\obj\Debug\net8.0\reduction of fractions.AssemblyInfo.cs
+C:\Users\Nikita\source\repos\reduction of fractions\reduction of fractions\obj\Debug\net8.0\reduction of fractions.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\source\repos\reduction of fractions\reduction of fractions\obj\Debug\net8.0\reduction of fractions.dll
+C:\Users\Nikita\source\repos\reduction of fractions\reduction of fractions\obj\Debug\net8.0\refint\reduction of fractions.dll
+C:\Users\Nikita\source\repos\reduction of fractions\reduction of fractions\obj\Debug\net8.0\reduction of fractions.pdb
+C:\Users\Nikita\source\repos\reduction of fractions\reduction of fractions\obj\Debug\net8.0\reduction of fractions.genruntimeconfig.cache
+C:\Users\Nikita\source\repos\reduction of fractions\reduction of fractions\obj\Debug\net8.0\ref\reduction of fractions.dll

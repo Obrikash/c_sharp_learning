@@ -1,0 +1,14 @@
+C:\Users\Nikita\source\repos\modules on Mars\modules on Mars\bin\Debug\net8.0\modules on Mars.exe
+C:\Users\Nikita\source\repos\modules on Mars\modules on Mars\bin\Debug\net8.0\modules on Mars.deps.json
+C:\Users\Nikita\source\repos\modules on Mars\modules on Mars\bin\Debug\net8.0\modules on Mars.runtimeconfig.json
+C:\Users\Nikita\source\repos\modules on Mars\modules on Mars\bin\Debug\net8.0\modules on Mars.dll
+C:\Users\Nikita\source\repos\modules on Mars\modules on Mars\bin\Debug\net8.0\modules on Mars.pdb
+C:\Users\Nikita\source\repos\modules on Mars\modules on Mars\obj\Debug\net8.0\modules on Mars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\source\repos\modules on Mars\modules on Mars\obj\Debug\net8.0\modules on Mars.AssemblyInfoInputs.cache
+C:\Users\Nikita\source\repos\modules on Mars\modules on Mars\obj\Debug\net8.0\modules on Mars.AssemblyInfo.cs
+C:\Users\Nikita\source\repos\modules on Mars\modules on Mars\obj\Debug\net8.0\modules on Mars.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\source\repos\modules on Mars\modules on Mars\obj\Debug\net8.0\modules on Mars.dll
+C:\Users\Nikita\source\repos\modules on Mars\modules on Mars\obj\Debug\net8.0\refint\modules on Mars.dll
+C:\Users\Nikita\source\repos\modules on Mars\modules on Mars\obj\Debug\net8.0\modules on Mars.pdb
+C:\Users\Nikita\source\repos\modules on Mars\modules on Mars\obj\Debug\net8.0\modules on Mars.genruntimeconfig.cache
+C:\Users\Nikita\source\repos\modules on Mars\modules on Mars\obj\Debug\net8.0\ref\modules on Mars.dll
